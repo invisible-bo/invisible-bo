@@ -1,6 +1,6 @@
 ![Banner](images/banner.jpg)
 
-## Hi there 👋
+
 
 <!--
 **invisible-bo/invisible-bo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
