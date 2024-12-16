@@ -1,5 +1,5 @@
 ![Banner](images/banner.jpg)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=invisible-bo)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
