@@ -1,4 +1,4 @@
-![Banner](imgs/matcat.jpg)
+![Banner](imgs/matcat.png)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=invisible-bo&show_icons=true&theme=transparent)
 
 <!--
