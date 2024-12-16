@@ -1,3 +1,5 @@
+![Banner](images/banner.jpg)
+
 ## Hi there 👋
 
 <!--
