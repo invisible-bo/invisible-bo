@@ -5,7 +5,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=209.3 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=invisible-bo&layout=donut&theme=chartreuse-dark&card_width=300" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/invisible-bo/Own-Gitbook">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=invisible-bo&repo=Own-Gitbook&theme=chartreuse-dark" width="421.2" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
