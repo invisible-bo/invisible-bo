@@ -1,12 +1,12 @@
 ![Banner](imgs/matcat2.png)
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=invisible-bo&show_icons=true&theme=chartreuse-dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=invisible-bo&show_icons=true&theme=chartreuse-dark&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=invisible-bo&layout=donut&theme=chartreuse-dark" />
 </a>
 <a href="https://github.com/invisible-bo/Own-Gitbook">
-  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=invisible-bo&repo=Own-Gitbook&theme=chartreuse-dark&card_width=495" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=invisible-bo&repo=Own-Gitbook&theme=chartreuse-dark" />
 </a>
 <!--
 **invisible-bo/invisible-bo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
