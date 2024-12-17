@@ -8,8 +8,8 @@
 <a href="https://github.com/invisible-bo/Own-Gitbook">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=invisible-bo&repo=Own-Gitbook&theme=chartreuse-dark" width="421.2" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat&theme=chartreuse-dark" width="421.2" />
+<a href="https://gist.github.com/invisible-bo/1e24869d0fe843b05fd5e7738543ef63">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/gist?id=1e24869d0fe843b05fd5e7738543ef63&theme=chartreuse-dark" width="421.2" />
 </a>
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=invisible-bo&theme=github-compact" />
