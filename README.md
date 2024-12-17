@@ -6,7 +6,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=invisible-bo&layout=donut" />
 </a>
 <a href="https://github.com/invisible-bo/Own-Gitbook">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=invisible-bo&repo=example-repo&theme=chartreuse-dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=invisible-bo&repo=Own-Gitbook&theme=chartreuse-dark" />
 </a>
 
 <!--
