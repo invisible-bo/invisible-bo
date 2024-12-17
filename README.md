@@ -3,7 +3,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=invisible-bo&show_icons=true&theme=chartreuse-dark&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=invisible-bo&layout=donut" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=invisible-bo&layout=donut&theme=chartreuse-dark" />
 </a>
 <a href="https://github.com/invisible-bo/Own-Gitbook">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=invisible-bo&repo=Own-Gitbook&theme=chartreuse-dark" />
