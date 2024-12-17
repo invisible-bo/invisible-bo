@@ -1,5 +1,7 @@
 ![Banner](imgs/matcat2.png)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=invisible-bo&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=invisible-bo&layout=compact)
+
 
 <!--
 **invisible-bo/invisible-bo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
