@@ -9,7 +9,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=invisible-bo&repo=Own-Gitbook&theme=chartreuse-dark" />
 </a>
 <a href="https://gist.github.com/invisible-bo/YOUR-GIST-ID">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/gist?id=YOUR-GIST-ID&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&theme=chartreuse-dark" />
 </a>
 
 <!--
