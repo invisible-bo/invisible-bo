@@ -5,6 +5,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=invisible-bo&layout=donut" />
 </a>
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=invisible-bo&repo=example-repo&theme=chartreuse-dark)](https://github.com/invisible-bo/example-repo)
 
 <!--
 **invisible-bo/invisible-bo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
