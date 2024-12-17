@@ -5,14 +5,13 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=209.3 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=invisible-bo&layout=donut&theme=chartreuse-dark&card_width=300" />
 </a>
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=invisible-bo&theme=github-compact" />
-</a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=invisible-bo&repo=Own-Gitbook" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=invisible-bo&theme=github-compact" />
 </a>
 
 
