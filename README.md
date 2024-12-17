@@ -9,6 +9,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=invisible-bo&theme=github-compact" />
 </a>
 
+<!-- 기존 Contributions 숨길 수 없지만 시각적으로 아래로 밀기 -->
+
+
 
 <!--
 **invisible-bo/invisible-bo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
