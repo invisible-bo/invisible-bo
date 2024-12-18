@@ -3,7 +3,7 @@
   <img height=209.3 align="center" src="https://github-readme-stats.vercel.app/api?username=invisible-bo&show_icons=true&theme=chartreuse-dark&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=209.3 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=invisible-bo&layout=compact&theme=chartreuse-dark&card_width=100" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=invisible-bo&layout=compact&langs_count=8&theme=chartreuse-dark&card_width=100" />
 </a>
 <a href="https://github.com/invisible-bo/Own-Gitbook">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=invisible-bo&repo=Own-Gitbook&theme=chartreuse-dark" width="421.2" />
@@ -14,7 +14,6 @@
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=invisible-bo&theme=github-compact" />
 </a>
-
 
 
 
