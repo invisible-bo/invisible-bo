@@ -2,7 +2,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=209 align="center" src="https://github-readme-stats.vercel.app/api?username=invisible-bo&theme=chartreuse-dark&rank_icon=github" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=invisible-bo&layout=compact&langs_count=8&card_width=320&theme=chartreuse-dark" />
 <a href="https://github.com/invisible-bo/Own-Gitbook">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=invisible-bo&repo=Own-Gitbook&theme=chartreuse-dark" width="421.2" />
