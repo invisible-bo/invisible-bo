@@ -1,9 +1,9 @@
 ![Banner](imgs/matrix_cat.png)
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=209 align="center" src="https://github-readme-stats.vercel.app/api?username=invisible-bo&theme=chartreuse-dark&rank_icon=github" />
+  <img height=209 align="center" src="https://github-readme-stats.vercel.app/api?username=invisible-bo&theme=neon&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=209 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=invisible-bo&layout=donut&card_width=320&theme=chartreuse-dark&langs_count=8" />
+    <img height=209 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=invisible-bo&layout=donut&card_width=320&theme=neon&langs_count=8" />
 <a href="https://github.com/invisible-bo/My_Gitbook">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=invisible-bo&repo=My_Gitbook&theme=chartreuse-dark" width="421.2" />
 </a>
