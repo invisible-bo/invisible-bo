@@ -2,7 +2,7 @@
   <img height=209 align="center" src="https://github-readme-stats.vercel.app/api?username=invisible-bo&theme=dracula_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=209 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=invisible-bo&layout=donut&card_width=320&theme=dracula_count=8" />
+    <img height=209 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=invisible-bo&layout=donut&card_width=320&theme=dracula count=8" />
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=invisible-bo&theme=dracula" />
 </a>
